@@ -1,0 +1,43 @@
+* Sermon translation
+** TODO [#A] Prepare translation for 13 Sep                       :preaching:
+   DEADLINE: <2015-09-12 토>
+   :PROPERTIES:
+   :ID:       E55A5A90-4A10-4A60-B695-25DE557E9440
+   :END:
+
+* Church Treasury                                                   :finance:
+** TODO [#B] 9.6 Offering data input
+   SCHEDULED: <2015-09-12 토>
+   :PROPERTIES:
+   :ID:       0B55D5E7-6188-4580-97C9-B0EF0B00B964
+   :END:
+** TODO [#C] Make mission offering in & out status report
+   :PROPERTIES:
+   :ID:       59A580B1-48A4-4A00-A1ED-7B365C8251F5
+   :END:
+
+* Weekly memory verses                                                :bible:
+** DONE [#A] September 1st Week
+   CLOSED: [2015-09-14 Mon 08:53] DEADLINE: <2015-09-05 토>
+- [X] Rm 12:1 :: I beseech you therefore, brethren, by the mercies of God that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+- [X] Rm 12:2 :: And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+- [X] Mk 8:35 :: For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the godspel's, the same shall save it.
+** DONE [#A] September 2nd Week                                      :
+   CLOSED: [2015-09-14 Mon 08:51] DEADLINE: <2015-09-12 토>
+- [X] Ps 51:10 :: Create in me a clean heart, O God; and renew a right spirit in within me.
+- [X] Ps 51:11 :: Cast me not away from thy presence; and take not thy holy spirit from me.
+- [X] Ps 51:12 :: Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
+- [ ] ITh 4:7 :: For God hath not called us unto uncleanness, but unto holiness.
+** [#A] September 3rd Week
+   DEADLINE: <2015-09-19 Sat>
+   :PROPERTIES:
+   :ID:       71B87294-C49E-4098-809F-DD0FA8008A5E
+   :END:
+   - [ ] IICo 10:3 :: For though we walk in the flesh, but we do not war after the flesh:
+   - [ ] IICo 10:4 :: (For the weapons of our warfare are not carnel, but mighty through God to the pulling down of strong holds;)
+   - [ ] IICo 10:5 :: Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and  bringing into captivity every thought to the obedience of Christ;
+
+* Events
+** DONE [#B] Couple's activity                                        :event:
+   CLOSED: [2015-09-14 Mon 08:41] SCHEDULED: <2015-09-12 토>
+   - Meet 3:00 pm at the church.

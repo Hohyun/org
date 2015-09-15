@@ -1,0 +1,71 @@
+* projects
+
+** 2015 정기감사                                                      :audit:
+*** TODO [#B] BI 기능 점검 [0%]
+    SCHEDULED: <2015-09-15 화>
+    :PROPERTIES:
+    :ID:       39B8EE6C-0436-49C4-A719-5ED3FE34B5B0
+    :END:
+    - [ ] Fix graph (운송수익 추세, 운송수익 분석, 당월운송 수익, 화물판매수수료 현황)
+    - [ ] Fix error (일별 운송실적 화면 미표출)
+    - [ ] Hide screen & fix (Malpractice DB - CGO Agent Sales Growth)
+       e-Office에 같은 기능이 있고, ERP의 내용이 일부 부정확한 부분이 있어 기능 삭제 의견을 보이고 있음. 일단은 정상 작동토록 기능 보완 후 삭제여부는 추후 재 논의키로 하였음.
+*** TODO [#B] 요청자료 송부
+    DEADLINE: <2015-09-15 화>
+    :PROPERTIES:
+    :ID:       AB8E1930-B78A-4D16-85AA-C50C99AA31E1
+    :END:
+*** TODO [#B] 업무설명회
+    SCHEDULED: <2015-09-16 수>
+    :PROPERTIES:
+    :ID:       ADB652CF-4479-4C20-939A-60554F3215FC
+    :END:
+
+* Meetings                                                          :meeting:
+** Friday 팀장회의
+   SCHEDULED: <2015-09-18 Mon 09:00-10:00 +1w>
+   :PROPERTIES:
+   :ID:       67E4D1D8-9092-47A1-A87D-8FD118B0C50F
+   :END:
+** Thursday 팀회의
+   SCHEDULED: <2015-09-17 Thu 15:00-16:00 +1w>
+   :PROPERTIES:
+   :ID:       BF602BBD-DC9A-4564-9C0F-7E525D6EE4E4
+   :END:
+* Periodic Reports                                                   :report:
+* Tasks                                                                :work:
+** DONE [#C] 더존한우 김리경 과장 전출 회식 영수증 정리             :expense:
+   CLOSED: [2015-09-14 Mon 09:20] SCHEDULED: <2015-09-14 월>
+   :PROPERTIES:
+   :ID:       5FA486E0-FD04-4713-9424-AF0D79460C7A
+   :END:
+** TODO [#C] 팀 직원과 점심
+   DEADLINE: <2015-09-24 목>
+   :PROPERTIES:
+   :ID:       74BD2959-37DE-46F2-82FB-1472918ADD54
+   :END:
+** DONE [#B] 진에어 지불 - 어느 경우는 usd, 어느 경우는 krw
+   CLOSED: [2015-09-14 Mon 08:49] SCHEDULED: <2015-09-14 월>
+   :PROPERTIES:
+   :ID:       D86067EB-46EC-46A8-AE33-C85D926C76D4
+   :END:
+   - 국내우편물 챠터는 원화지불, HKG/ICN, ICN/MFM 우편물 운송은 국제선이므로 USD 지불이 당연
+** TODO [#B] 스케쥴성 업무 현황표 작성
+   :PROPERTIES:
+   :ID:       1E412FAF-5BE3-4BE9-8A7C-BF6F29B2BC56
+   :END:
+** TODO [#B] 2015년 3차 정기보건교육
+   DEADLINE: <2015-09-15 Tue>
+   :PROPERTIES:
+   :ID:       9A2FC85D-7D77-41F7-ABA4-2A263411094A
+   :END:
+** DONE [#B] 휴대폰사용료 2015.7월분 청구                           :expense:
+   CLOSED: [2015-09-14 Mon 09:25] DEADLINE: <2015-09-14 Mon>
+   :PROPERTIES:
+   :ID:       6DEAB795-68FE-416E-B8BD-27884B015CB5
+   :END:
+** TODO [#B] 휴대폰사용료 2015.8월분 청구                           :expense:
+   DEADLINE: <2015-09-21 Mon>
+   :PROPERTIES:
+   :ID:       84D89EF8-CE12-4E4F-AAC5-9F74FCB91DF4
+   :END:

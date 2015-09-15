@@ -1,0 +1,29 @@
+* KNOU
+** Alogorithm 특론                                                 :computer:
+*** DONE W1. 알고리즘의 기본개념
+*** TODO W2. 욕심쟁이 방법
+    DEADLINE: <2015-09-12 토>
+    :PROPERTIES:
+    :ID:       18852C46-16EB-429D-A45C-FBEA7AC37660
+    :END:
+
+** 컴포넌트 프로그래밍
+*** DONE W1. 컴포넌트 프로그래밍의 기초
+*** TODO W2. J2EE Architecture
+    DEADLINE: <2015-09-12 토>
+    :PROPERTIES:
+    :ID:       06BB0434-1D2A-4F87-B8D6-3E292E7D46F5
+    :END:
+
+
+* Programming                                                      :computer:
+** Clojure Programming
+- [ ] Macro Programming
+** TODO Gnus setup
+   :PROPERTIES:
+   :ID:       979ED662-1AF1-4352-8F29-0A94455F97AA
+   :END:
+** TODO AucTeX setup
+   :PROPERTIES:
+   :ID:       5E2FF472-70AA-4999-9CDA-77F40E19642C
+   :END:

@@ -1,0 +1,8 @@
+* 2015
+** 2015-09 September
+*** 2015-09-14 Monday
+**** TODO 성경속의 미국 DVD 시청                                      :bible:
+     Added: [2015-09-14 Mon 14:29]
+**** Weekly verses memorize helper :bible:
+   Added: [2015-09-14 Mon 16:16]
+   - Required functions: get-verses, scramble words
