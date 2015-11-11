@@ -13,24 +13,32 @@
    :END:
 
 * Tasks
-** TODO [#A] 운전면허 적성검사                                      :license:
-   SCHEDULED: <2015-10-01 Thu> DEADLINE: <2015-10-10 Sat -5d>
+** DONE [#A] 운전면허 적성검사                                      :license:
+   CLOSED: [2015-10-02 Fri 14:06] SCHEDULED: <2015-10-01 Thu> DEADLINE: <2015-10-10 Sat -5d>
    :PROPERTIES:
    :ID:       2B34FCD6-56F2-49DB-AE51-54C899B818DA
    :END:
+   - 준비물 :: 컬러사진 2매, 운전면허증, 적성검사신청서
+   - 비용 :: 12,500원
 ** DONE [#B] 삿포로 여행 사진 정리                                    :photo:
    CLOSED: [2015-09-14 Mon 09:30]
    - [X] Copy photo file into PC
    - [X] Upload to cloud
-** TODO [#B] 2015년 정기건강검진                                     :health:
-   SCHEDULED: <2015-09-17 Thu>
+** DONE [#B] 2015년 정기건강검진                                     :health:
+   CLOSED: [2015-09-30 Wed 10:22] SCHEDULED: <2015-09-17 Thu>
    :PROPERTIES:
    :ID:       891617AF-C47D-4E78-9313-FA29E7AA25F9
    :END:
-** TODO [#B] 검진 사전준비 [0/2]                                     :health:
-   DEADLINE: <2015-09-16 Wed>
+** DONE [#B] 검진 사전준비 [1/1]                                     :health:
+   CLOSED: [2015-09-30 Wed 10:27] DEADLINE: <2015-09-16 Wed>
    :PROPERTIES:
    :ID:       F6300E2D-30CC-481B-8323-6E109CC31842
    :END:
-   - [ ] IIMC 내시경 예약 (032-26-0850)
-   - [ ] 장세정제 수령 (항공의료원)
+   - [X] IIMC 내시경 예약 (032-206-1850) : 내시경은 10월 1일 이후 가능
+** DONE 장세정제 수령
+   CLOSED: [2015-10-20 Tue 09:27] DEADLINE: <2015-10-19 Mon>
+** DONE 내시경 검진                                                  :health:
+   CLOSED: [2015-10-23 Fri 13:00] SCHEDULED: <2015-10-21 Wed 10:50>
+   - 10:30 & 11:10
+   - 약 1시간 소요, 조직 검사 시 비용 소요
+   - IIMC 032-206-1850

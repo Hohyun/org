@@ -6,3 +6,48 @@
 **** Weekly verses memorize helper :bible:
    Added: [2015-09-14 Mon 16:16]
    - Required functions: get-verses, scramble words
+*** 2015-09-22 Tuesday
+**** EQ 심사시스템 구축                                              :system:
+- EQ 제도 개요: 대리점 자체 혼재작업 시 ULD당 기준 중량의 미달 분을 일정기간 초과 분과 상계
+- 한국 PTL(VIE행), HKG 등 시행 중
+- 현황 조사, 검증 시스템 구축 업무 계획 반영
+   Added: [2015-09-22 Tue 09:19]
+*** 2015-09-25 Friday
+**** Word cloud shiny app for memorizing verses                       :bible:
+   Let's make utility program that help to memorize memory verses
+   Added: [2015-09-25 Fri 09:01]
+** 2015-10 October
+*** 2015-10-08 Thursday
+**** e-OFC 재심 결재기능 보완                                        :system:
+   결재화면에서 REMARK colume 크기를 키우고, 여러 건을 한꺼번에 결재하는 기능 추가
+   Added: [2015-10-08 Thu 14:34]
+*** 2015-10-19 Monday
+**** Memory verse util                                               :system:
+   read iibc_verses.csv from github --> get text from sqlite db --> write to memory_verses.csv
+   clojure project
+   Added: [2015-10-19 Mon 10:10]
+**** memory verse rendering project                                  :system:
+   Using D3.js, render verses to html page
+   Added: [2015-10-19 Mon 10:14]
+** 2015-11 November
+*** 2015-11-02 Monday
+****  %^g
+   동시에 복수 건 선택하여 일괄 승인 가능토록 개선
+   Added: [2015-11-02 Mon 13:35]e-office reaudit 결재기능 개선
+*** 2015-11-11 Wednesday
+**** emacs setup
+- auctex
+- org
+- clojure-mode
+- clojure-mode-extra-font-locking
+- cider
+- auto-complete
+  . ~/.dict file에 단어 입력
+- ac-cider
+- projectile
+- ido-flx
+- paredit
+- smartparens
+- rainbow-delimiters
+
+* Calendar

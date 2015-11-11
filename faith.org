@@ -1,13 +1,22 @@
-* Sermon translation
-** TODO [#A] Prepare translation for 13 Sep                       :preaching:
-   DEADLINE: <2015-09-12 토>
+#+LAST_MOBILE_CHANGE: 2015-09-15 21:19:53
+* Sermon translation                                              :preaching:
+** DONE [#A] Prepare translation for 13 Sep
+   CLOSED: [2015-09-15 Tue 21:19] DEADLINE: <2015-09-12 토>
    :PROPERTIES:
    :ID:       E55A5A90-4A10-4A60-B695-25DE557E9440
    :END:
-
+** DONE Prepare translation for 20 Sep
+   CLOSED: [2015-10-05 Mon 13:18] DEADLINE: <2015-09-19 Sat>
+   :PROPERTIES:
+   :ID:       89EDA388-73B5-493C-B176-AA5C6319200A
+   :END:
+** DONE Prepare translation for 27 Sep
+   CLOSED: [2015-09-26 Mon 13:18] DEADLINE: <2015-09-26 Sat>
+** DONE Prepare translation for 3 Oct
+   CLOSED: [2015-10-04 Mon 13:19] DEADLINE: <2015-10-03 Sat>
 * Church Treasury                                                   :finance:
-** TODO [#B] 9.6 Offering data input
-   SCHEDULED: <2015-09-12 토>
+** DONE [#B] 9.6 Offering data input
+   CLOSED: [2015-10-05 Mon 13:15] SCHEDULED: <2015-09-12 토>
    :PROPERTIES:
    :ID:       0B55D5E7-6188-4580-97C9-B0EF0B00B964
    :END:
@@ -15,6 +24,8 @@
    :PROPERTIES:
    :ID:       59A580B1-48A4-4A00-A1ED-7B365C8251F5
    :END:
+** DONE Report church finanacial status to core members
+   CLOSED: [2015-10-05 Mon 13:18] SCHEDULED: <2015-10-04 Sun>
 
 * Weekly memory verses                                                :bible:
 ** DONE [#A] September 1st Week
@@ -27,17 +38,56 @@
 - [X] Ps 51:10 :: Create in me a clean heart, O God; and renew a right spirit in within me.
 - [X] Ps 51:11 :: Cast me not away from thy presence; and take not thy holy spirit from me.
 - [X] Ps 51:12 :: Restore unto me the joy of thy salvation; and uphold me with thy free spirit.
-- [ ] ITh 4:7 :: For God hath not called us unto uncleanness, but unto holiness.
-** [#A] September 3rd Week
-   DEADLINE: <2015-09-19 Sat>
+- [X] ITh 4:7 :: For God hath not called us unto uncleanness, but unto holiness.
+** DONE [#A] September 3rd Week
+   CLOSED: [2015-09-16 Wed 11:01] DEADLINE: <2015-09-19 Sat>
    :PROPERTIES:
    :ID:       71B87294-C49E-4098-809F-DD0FA8008A5E
    :END:
-   - [ ] IICo 10:3 :: For though we walk in the flesh, but we do not war after the flesh:
-   - [ ] IICo 10:4 :: (For the weapons of our warfare are not carnel, but mighty through God to the pulling down of strong holds;)
-   - [ ] IICo 10:5 :: Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and  bringing into captivity every thought to the obedience of Christ;
+   - [X] IICo 10:3 :: For though we walk in the flesh, but we do not war after the flesh:
+   - [X] IICo 10:4 :: (For the weapons of our warfare are not carnel, but mighty through God to the pulling down of strong holds;)
+   - [X] IICo 10:5 :: Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+** DONE [#A] September 4th Week
+   CLOSED: [2015-09-29 Tue 11:13] DEADLINE: <2015-09-26 Sat>
+   - [X] Rm 6:12 :: Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof. 그러므로 너희는 죄가 너희의 죽을 몸 안에서 군림하게 하여 몸의 정욕 안에서 죄에게 순종하지 말고
+   - [X] Rm 6:13 :: Neither yield ye your members as instruments of unrighteousness unto sin: but yield youselves unt God, as those that are alive from the dead, and your members as instruments of righteousness unto God. 또한 너희 지체를 불의의 도구로 죄에게 내어주지 말며 오직 너희 자신을 죽은 자들로부터 살아난 자로서 하나님께 드리고 너희 지체를 의의 도구로 하나님께 드리라.
+** DONE [#A] October 1st Week
+   CLOSED: [2015-10-05 Mon 13:02] DEADLINE: <2015-10-03 Sat>
+   :PROPERTIES:
+   :ID:       CF00677E-3AD3-4CCC-8193-BBDAB8C30FF4
+   :END:
+- [X] ICo 6:19 :: What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? 도대체 무슨 말이냐? 너희 몸이 너희가 하나님에게서 받은바 너희 안에 계신 성령님의 전인 줄을 너희가 알지 못하느냐? 너희는 너희 자신의 것이 아니니
+- [X] ICo 6:20 :: For ye are bought with price: therefore glorify God in your body, and in your spirit, which are God's. 주께서 너희를 사셨느니라. 그런즉 하나님의 것인 너희 몸과 너희 영으로 하나님께 영광을 돌리라.
+** DONE [#A] October 2nd Week
+   CLOSED: [2015-10-14 Wed 11:42] DEADLINE: <2015-10-10 Sat>
+- [X] Pr 11:30 :: The fruit of righteousness is a tree of life; and he that winneth souls is wise. 의로운 자의 열매는 생명나무니 혼들을 얻는 자는 지혜로우니라.
+- [X] Ps 126:5 :: They that sow in tears shall reap in joy. 눈물을 흘리며 씨를 뿌리는 자들은 기쁨으로 거두리로다.
+- [X] Ps 126:6 :: He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him. 귀중한 씨를 가지고 나아가 우는 자는 반드시 기뻐하며 자기의 곡식 단들을 가지고 돌아오리로다.
+** TODO [#A] October 3rd Week
+   DEADLINE: <2015-10-17 Sat>
+   :PROPERTIES:
+   :ID:       28A91B65-0E91-4D5F-B431-3A114D0AD25F
+   :END:
+- [ ] Rm 10:9 :: That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.  네가 만일 네 입으로 주 예수님을 시인하고, 하나님께서 그분을 죽은 자들로부터 살리신 것을 네 마음속으로 믿으면, 구원을 받으리니
+- [ ] Rm 5:8 :: But God commendeth his love toward us, in that while we were yet sinners, Christ died for us.  우리가 아직 죄인이었을 때에 그리스도께서 우리를 위해 죽으심으로 하나님께서 우리를 향한 자신의 사랑을 당당히 제시하시느니라.
+- [ ] Rm 6:23 :: For the wages of sin is death; but the gift of God is eternal life throught Jesus Christ our Lord.  죄의 삯은 사망이나 하나님의 선물은 예수 그리스도 우리 주를 통해 얻는 영원한 생명이니라.
 
-* Events
-** DONE [#B] Couple's activity                                        :event:
+* Events                                                              :event:
+** DONE [#B] Couple's activity
    CLOSED: [2015-09-14 Mon 08:41] SCHEDULED: <2015-09-12 토>
    - Meet 3:00 pm at the church.
+** APPT Man's lunch and prayer meeting
+   SCHEDULED: <2015-10-10 Sat 11:30>
+   :PROPERTIES:
+   :ID:       8E18A9DE-F79A-44DD-B184-802423360102
+   :END:
+** TODO Church cleaning
+   SCHEDULED: <2015-10-17 Sat>
+   :PROPERTIES:
+   :ID:       F2CB80A2-58BF-4D63-BDDA-FCE325CE0927
+   :END:
+** IIBC's 4th anniversary service
+   SCHEDULED: <2015-10-18 Sun>
+   :PROPERTIES:
+   :ID:       42631EE7-B4AF-4B4D-8E65-DB517E60C9EC
+   :END:
