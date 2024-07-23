@@ -97,3 +97,11 @@
    :ID:       D8DCB9C2-C840-460A-8777-D8031F78D184
    :END:
    - 참석자: GAD, 각 팀장, 이정호
+
+* Google Forum
+** Cash deposit notification
+
+   - URL: https://forms.gle/YS7RhgcYYRGeGbzB8
+   - Google Sheet: 
+     - Name: Cash deposit info
+     - id: 1m65Id03MA-fDs5ISo4i3yIruQnw9qBzDRKf98H9qX-g
