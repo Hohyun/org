@@ -2,88 +2,94 @@
 #+author: h4soft
 
 * Chunkeng Web Site
-#+BEGIN: clocktable :scope subtree :maxlevel 4 :block 2024-07  :tags t
-#+CAPTION: Clock summary at [2024-07-23 화 16:22], for 7월 2024.
-| Tags | Headline                            | Time    |       |      |      |
-|------+-------------------------------------+---------+-------+------+------|
-|      | *Total time*                        | *18:30* |       |      |      |
-|------+-------------------------------------+---------+-------+------+------|
-|      | Chunkeng Web Site                   | 18:30   |       |      |      |
-|      | \_  Team Folder Project             |         | 18:30 |      |      |
-|      | \_    Review & Research             |         |       | 4:00 |      |
-|      | \_      7.6 New requirement review  |         |       |      | 4:00 |
-|      | \_    UI                            |         |       | 3:30 |      |
-|      | \_      7.3 Team select             |         |       |      | 1:00 |
-|      | \_      7.9 Holiday management menu |         |       |      | 2:30 |
-|      | \_    Score Management              |         |       | 3:00 |      |
-|      | \_      7.1 Score View/Edit/Delete  |         |       |      | 3:00 |
-|      | \_    System Setup                  |         |       | 3:00 |      |
-|      | \_      7.1 Score Mangement Go Live |         |       |      | 3:00 |
-|      | \_    Documentation                 |         |       | 5:00 |      |
-|      | \_      7.2: Score Mangement Manual |         |       |      | 5:00 |
+#+BEGIN: clocktable :scope subtree :maxlevel 4 :block 2024-07 :tags t
+#+CAPTION: Clock summary at [2024-07-25 목 12:39], for 7월 2024.
+| Tags         | Headline                            | Time      |         |       |      |
+|--------------+-------------------------------------+-----------+---------+-------+------|
+|              | *Total time*                        | *1d 5:50* |         |       |      |
+|--------------+-------------------------------------+-----------+---------+-------+------|
+|              | Chunkeng Web Site                   | 1d 5:50   |         |       |      |
+|              | \_  Team Folder Project             |           | 1d 5:50 |       |      |
+|              | \_    Review & Research             |           |         |  4:00 |      |
+| 07_06        | \_      New requirement review      |           |         |       | 4:00 |
+|              | \_    Development                   |           |         | 17:50 |      |
+| 07_01        | \_      Score View/Edit/Delete      |           |         |       | 3:00 |
+| 07_03        | \_      Team select UI              |           |         |       | 1:00 |
+| 07_09        | \_      Holiday management UI       |           |         |       | 2:30 |
+| 07_24        | \_      Team schedule management    |           |         |       | 3:00 |
+| 07_24, 07_25 | \_      Team notes management       |           |         |       | 8:20 |
+|              | \_    System Setup                  |           |         |  3:00 |      |
+| 07_01        | \_      Score mangement go live     |           |         |       | 3:00 |
+|              | \_    Documentation                 |           |         |  5:00 |      |
+| 07_02        | \_      Score mangement user manual |           |         |       | 5:00 |
 #+END:
 
 
 ** TODO [#A] Team Folder Project
 
 *** TODO [#B] Review & Research                           
-**** TODO 7.6 New requirement review                                                  
-  
+**** TODO New requirement review                                      :07_06:
+ 
 :LOGBOOK:
 CLOCK: [2024-07-06 토 09:30]--[2024-07-06 토 13:30] =>  4:00
 :END:
 
-*** TODO [#B] UI Development                                  
-**** DONE 7.3 Team select                                            
-CLOSED: [2024-07-23 화 16:20]
-:LOGBOOK:
-CLOCK: [2024-07-03 수 09:00]--[2024-07-03 수 10:00] =>  1:00
-:END:
-
-**** DONE 7.9 Holiday management menu
-CLOSED: [2024-07-23 화 16:22]
-:LOGBOOK:
-CLOCK: [2024-07-09 화 14:00]--[2024-07-09 화 16:30] =>  2:30
-:END:
-
-*** TODO [#A] Score Management
-
+*** TODO [#B] Development                                  
 **** TODO Backend API Development
 
       - [X] Go-API
       - [X] STRAPI
 
-**** TODO Score Input
-**** TODO 7.1 Score View/Edit/Delete                                  
+**** TODO Team member view
+
+**** DONE Score View/Edit/Delete                                      :07_01:
+CLOSED: [2024-07-06 토 07:53]
   
 :LOGBOOK:
 CLOCK: [2024-07-01 월 13:00]--[2024-07-01 월 16:00] =>  3:00
 :END:
-   
-**** TODO 채움장
 
-*** TODO [#A] Team Homepage
-**** TODO 회원 현황 조회
-**** TODO 수업 스케쥴 조회/입력/수정/삭제
-**** TODO 클래스별 Remarks 조회/입력/수정
+**** DONE Team select UI                                              :07_03:
+
+CLOSED: [2024-07-23 화 16:20]
 :LOGBOOK:
-CLOCK: [2024-07-24 수 08:00]--[2024-07-24 수 12:06] =>  4:06
+CLOCK: [2024-07-03 수 09:00]--[2024-07-03 수 10:00] =>  1:00
 :END:
-<2024-07-24 수>
 
+**** DONE Holiday management UI                                       :07_09:
+
+CLOSED: [2024-07-23 화 16:22]
+:LOGBOOK:
+CLOCK: [2024-07-09 화 14:00]--[2024-07-09 화 16:30] =>  2:30
+:END:
+
+**** TODO Team schedule management                                    :07_24:
+
+:LOGBOOK:
+CLOCK: [2024-07-24 수 13:30]--[2024-07-24 수 16:30] =>  3:00
+:END:
+
+**** TODO Team notes management                                 :07_24:07_25:
+
+:LOGBOOK:
+CLOCK: [2024-07-25 목 13:30]--[2024-07-25 목 16:25] =>  2:55
+CLOCK: [2024-07-25 목 07:30]--[2024-07-25 목 11:50] =>  4:20
+CLOCK: [2024-07-24 수 08:00]--[2024-07-24 수 12:00] =>  4:00
+:END:
 
 *** TODO [#B] System Setup                                           
+**** DONE Score mangement go live                                     :07_01:
 
-**** DONE 7.1 Score Mangement Go Live         
 CLOSED: [2024-07-23 화 16:09]
 
 :LOGBOOK:
 CLOCK: [2024-07-01 월 09:00]--[2024-07-01 월 12:00] =>  3:00
 :END:
     
-*** DONE [#C] Documentation                                          
-CLOSED: [2024-07-23 화 16:09]
-**** DONE 7.2: Score Mangement Manual
+
+*** TODO [#C] Documentation                                          
+**** DONE Score mangement user manual                                 :07_02:
+
 CLOSED: [2024-07-02 화 16:00]
 :LOGBOOK:
 CLOCK: [2024-07-02 화 09:00]--[2024-07-02 화 12:00] =>  3:00
@@ -92,6 +98,8 @@ CLOCK: [2024-07-02 화 13:30]--[2024-07-02 화 15:30] =>  2:00
 
     - [ ] Team Home Manual
 
+
 * Maintenance
+
 * New Server Project
 
