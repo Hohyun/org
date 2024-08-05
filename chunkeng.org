@@ -2,8 +2,8 @@
 #+author: h4soft
 
 * Chunkeng Web Site
-#+BEGIN: clocktable :scope subtree :maxlevel 4 :block 2024-07 :tags t
-#+CAPTION: Clock summary at [2024-07-27 Sat 19:47], for July 2024.
+#+BEGIN: clocktable :scope subtree :maxlevel 4 :block lastmonth :tags t
+#+CAPTION: Clock summary at [2024-08-01 목 15:24], for 7월 2024.
 | Tags                | Headline                                    | Time      |         |          |       |
 |---------------------+---------------------------------------------+-----------+---------+----------+-------|
 |                     | *Total time*                                | *4d 7:50* |         |          |       |
@@ -12,9 +12,9 @@
 |                     | \_  Team Folder Project                     |           | 4d 7:50 |          |       |
 |                     | \_    Review & Research                     |           |         |     4:00 |       |
 | 07_06               | \_      New requirement review              |           |         |          |  4:00 |
-|                     | \_    Development                           |           |         | 3d 11:25 |       |
+|                     | \_    Development                           |           |         | 3d 10:45 |       |
 | 07_01               | \_      Score View/Edit/Delete              |           |         |          |  3:00 |
-| 07_15, 07_16, 07_26 | \_      Chaewoom edit UI                    |           |         |          | 14:25 |
+| 07_15, 07_16, 07_26 | \_      Chaewoom edit UI                    |           |         |          | 13:45 |
 | 07_03               | \_      Team select UI, Bookmarks           |           |         |          |  1:00 |
 | 07_09               | \_      Holiday management UI               |           |         |          |  2:30 |
 | 07_10, 07_11        | \_      Bookmarks UI (D&D, Sort)            |           |         |          |  9:40 |
@@ -28,6 +28,8 @@
 | 07_27               | \_      Team home go live                   |           |         |          |  8:25 |
 |                     | \_    Documentation                         |           |         |     5:00 |       |
 | 07_02               | \_      Score mangement user manual         |           |         |          |  5:00 |
+|                     | \_    Meeting                               |           |         |     0:40 |       |
+| 07_16               | \_      Online meeting                      |           |         |          |  0:40 |
 #+END:
 
 
@@ -58,7 +60,6 @@ CLOCK: [2024-07-01 월 13:00]--[2024-07-01 월 16:00] =>  3:00
 
 :LOGBOOK:
 CLOCK: [2024-07-26 Fri 08:00]--[2024-07-26 Fri 13:15] =>  5:15
-CLOCK: [2024-07-16 Tue 19:00]--[2024-07-16 Tue 19:40] =>  0:40
 CLOCK: [2024-07-16 Tue 13:30]--[2024-07-16 Tue 16:30] =>  3:00
 CLOCK: [2024-07-16 Tue 09:00]--[2024-07-16 Tue 12:00] =>  3:00
 CLOCK: [2024-07-15 Mon 13:00]--[2024-07-15 Mon 15:30] =>  2:30
@@ -155,8 +156,14 @@ CLOCK: [2024-07-02 화 09:00]--[2024-07-02 화 12:00] =>  3:00
 CLOCK: [2024-07-02 화 13:30]--[2024-07-02 화 15:30] =>  2:00
 :END:
 
-    - [ ] Team Home Manual
 
+*** TODO [#A] Meeting
+**** DONE [#A] Online meeting                                         :07_16:
+CLOSED: [2024-08-01 목 15:24]
+
+:LOGBOOK:
+CLOCK: [2024-07-16 Tue 19:00]--[2024-07-16 Tue 19:40] =>  0:40
+:END:
 
 * Maintenance
 
