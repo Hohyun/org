@@ -3,13 +3,13 @@
 
 * Chunkeng Web Site
 #+BEGIN: clocktable :scope subtree :maxlevel 4 :block lastmonth :tags t
-#+CAPTION: Clock summary at [2024-08-01 목 15:24], for 7월 2024.
+#+CAPTION: Clock summary at [2024-08-05 Mon 17:20], for July 2024.
 | Tags                | Headline                                    | Time      |         |          |       |
 |---------------------+---------------------------------------------+-----------+---------+----------+-------|
-|                     | *Total time*                                | *4d 7:50* |         |          |       |
+|                     | *Total time*                                | *4d 8:45* |         |          |       |
 |---------------------+---------------------------------------------+-----------+---------+----------+-------|
-|                     | Chunkeng Web Site                           | 4d 7:50   |         |          |       |
-|                     | \_  Team Folder Project                     |           | 4d 7:50 |          |       |
+|                     | Chunkeng Web Site                           | 4d 8:45   |         |          |       |
+|                     | \_  Team Folder Project                     |           | 4d 8:45 |          |       |
 |                     | \_    Review & Research                     |           |         |     4:00 |       |
 | 07_06               | \_      New requirement review              |           |         |          |  4:00 |
 |                     | \_    Development                           |           |         | 3d 10:45 |       |
@@ -23,9 +23,9 @@
 | 07_18               | \_      Team member list                    |           |         |          |  2:30 |
 | 07_20, 07_24, 07_25 | \_      Team notes management               |           |         |          | 22:10 |
 | 07_26               | \_      Chaewoom data add & DB table change |           |         |          |  6:30 |
-|                     | \_    System Setup                          |           |         |    11:25 |       |
+|                     | \_    System Setup                          |           |         |    12:20 |       |
 | 07_01               | \_      Score mangement go live             |           |         |          |  3:00 |
-| 07_27               | \_      Team home go live                   |           |         |          |  8:25 |
+| 07_27, 07_28        | \_      Team home go live                   |           |         |          |  9:20 |
 |                     | \_    Documentation                         |           |         |     5:00 |       |
 | 07_02               | \_      Score mangement user manual         |           |         |          |  5:00 |
 |                     | \_    Meeting                               |           |         |     0:40 |       |
@@ -138,7 +138,7 @@ CLOSED: [2024-07-23 화 16:09]
 CLOCK: [2024-07-01 월 09:00]--[2024-07-01 월 12:00] =>  3:00
 :END:
 
-**** TODO Team home go live                                           :07_27:
+**** TODO Team home go live                                     :07_27:07_28:
 :LOGBOOK:
 CLOCK: [2024-07-28 Sun 20:50]--[2024-07-28 Sun 21:45] =>  0:55
 CLOCK: [2024-07-27 Sat 15:50]--[2024-07-27 Sat 19:05] =>  3:15
@@ -158,14 +158,29 @@ CLOCK: [2024-07-02 화 13:30]--[2024-07-02 화 15:30] =>  2:00
 
 
 *** TODO [#A] Meeting
-**** DONE [#A] Online meeting                                         :07_16:
+**** DONE [#A] Online meeting 7.16                                    :07_16:
 CLOSED: [2024-08-01 목 15:24]
 
 :LOGBOOK:
 CLOCK: [2024-07-16 Tue 19:00]--[2024-07-16 Tue 19:40] =>  0:40
 :END:
 
-* Maintenance
+**** DONE [#A] Online meeting 8.6                                     :08_06:
+:LOGBOOK:
+CLOCK: [2024-08-06 Tue 16:10]--[2024-08-06 Tue 16:35] =>  0:25
+:END:
+
+
+** Maintenance
+
+** DONE Homework UI -- Button by Subject                              :08_06:
+:LOGBOOK:
+CLOCK: [2024-08-06 Tue 16:37]--[2024-08-06 Tue 17:09] =>  0:32
+CLOCK: [2024-08-06 Tue 08:01]--[2024-08-06 Tue 11:50] =>  3:49
+:END:
+
+** TODO New Homework Management
+
 
 * New Server Project
 
