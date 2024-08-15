@@ -2,34 +2,23 @@
 #+author: h4soft
 
 * Chunkeng Web Site
-#+BEGIN: clocktable :scope subtree :maxlevel 4 :block lastmonth :tags t
-#+CAPTION: Clock summary at [2024-08-05 Mon 17:20], for July 2024.
-| Tags                | Headline                                    | Time      |         |          |       |
-|---------------------+---------------------------------------------+-----------+---------+----------+-------|
-|                     | *Total time*                                | *4d 8:45* |         |          |       |
-|---------------------+---------------------------------------------+-----------+---------+----------+-------|
-|                     | Chunkeng Web Site                           | 4d 8:45   |         |          |       |
-|                     | \_  Team Folder Project                     |           | 4d 8:45 |          |       |
-|                     | \_    Review & Research                     |           |         |     4:00 |       |
-| 07_06               | \_      New requirement review              |           |         |          |  4:00 |
-|                     | \_    Development                           |           |         | 3d 10:45 |       |
-| 07_01               | \_      Score View/Edit/Delete              |           |         |          |  3:00 |
-| 07_15, 07_16, 07_26 | \_      Chaewoom edit UI                    |           |         |          | 13:45 |
-| 07_03               | \_      Team select UI, Bookmarks           |           |         |          |  1:00 |
-| 07_09               | \_      Holiday management UI               |           |         |          |  2:30 |
-| 07_10, 07_11        | \_      Bookmarks UI (D&D, Sort)            |           |         |          |  9:40 |
-| 07_12, 07_13        | \_      Team home layout design             |           |         |          |  6:10 |
-| 07_17, 07_18, 07_24 | \_      Team schedule management            |           |         |          | 15:30 |
-| 07_18               | \_      Team member list                    |           |         |          |  2:30 |
-| 07_20, 07_24, 07_25 | \_      Team notes management               |           |         |          | 22:10 |
-| 07_26               | \_      Chaewoom data add & DB table change |           |         |          |  6:30 |
-|                     | \_    System Setup                          |           |         |    12:20 |       |
-| 07_01               | \_      Score mangement go live             |           |         |          |  3:00 |
-| 07_27, 07_28        | \_      Team home go live                   |           |         |          |  9:20 |
-|                     | \_    Documentation                         |           |         |     5:00 |       |
-| 07_02               | \_      Score mangement user manual         |           |         |          |  5:00 |
-|                     | \_    Meeting                               |           |         |     0:40 |       |
-| 07_16               | \_      Online meeting                      |           |         |          |  0:40 |
+#+BEGIN: clocktable :scope subtree :maxlevel 4 :block thismonth :tags t
+#+CAPTION: Clock summary at [2024-08-10 Sat 18:48], for August 2024.
+| Tags                | Headline                             | Time      |       |      |      |
+|---------------------+--------------------------------------+-----------+-------+------+------|
+|                     | *Total time*                         | *1d 1:12* |       |      |      |
+|---------------------+--------------------------------------+-----------+-------+------+------|
+|                     | Chunkeng Web Site                    | 1d 1:12   |       |      |      |
+|                     | \_  Team Folder Project              |           |  0:55 |      |      |
+|                     | \_    Meeting                        |           |       | 0:55 |      |
+| 08_06               | \_      Online meeting 8.6           |           |       |      | 0:25 |
+| 08_10               | \_      Online meeting 8.10          |           |       |      | 0:30 |
+| 08_06               | \_  Homework UI -- Button by Subject |           |  4:21 |      |      |
+|                     | \_  New Homework Management          |           | 19:56 |      |      |
+| 08_07               | \_    Requirement review             |           |       | 1:45 |      |
+| 08_07, 08_08, 08_09 | \_    Homework table design          |           |       | 6:55 |      |
+| 08_09               | \_    Homework data library develop  |           |       | 5:14 |      |
+| 08_10               | \_    Homework index route develop   |           |       | 6:02 |      |
 #+END:
 
 
@@ -170,6 +159,10 @@ CLOCK: [2024-07-16 Tue 19:00]--[2024-07-16 Tue 19:40] =>  0:40
 CLOCK: [2024-08-06 Tue 16:10]--[2024-08-06 Tue 16:35] =>  0:25
 :END:
 
+**** TODO Online meeting 8.10                                         :08_10:
+:LOGBOOK:
+CLOCK: [2024-08-10 Sat 15:45]--[2024-08-10 Sat 16:15] =>  0:30
+:END:
 
 ** Maintenance
 
@@ -181,6 +174,126 @@ CLOCK: [2024-08-06 Tue 08:01]--[2024-08-06 Tue 11:50] =>  3:49
 
 ** TODO New Homework Management
 
+*** TODO Requirement review                                           :08_07:
+     - 숙제 유형 정리: N, Q, C
+     - 발생 과목 정리
+     - 과목별 숙제내용 정리
+       
+:LOGBOOK:
+CLOCK: [2024-08-07 Wed 09:30]--[2024-08-07 Wed 11:15] =>  1:45
+:END:
+
+*** TODO Homework table design                            :08_07:08_08:08_09:
+     - Strapi Homework table creation
+     - Strapi Framework modify
+     - Scylla DB keyspace, homework table creation
+
+:LOGBOOK:
+CLOCK: [2024-08-09 Fri 09:00]--[2024-08-09 Fri 11:15] =>  2:15
+CLOCK: [2024-08-08 Thu 16:20]--[2024-08-08 Thu 19:05] =>  2:45
+CLOCK: [2024-08-07 Wed 11:20]--[2024-08-07 Wed 13:15] =>  1:55
+:END:
+
+*** TODO Homework data library develop                                :08_09:
+
+:LOGBOOK:
+CLOCK: [2024-08-09 Fri 16:37]--[2024-08-09 Fri 19:31] =>  2:54
+CLOCK: [2024-08-09 Fri 11:15]--[2024-08-09 Fri 13:35] =>  2:20
+:END:
+
+*** TODO Homework index route develop                           :08_10:08_11:
+:LOGBOOK:
+CLOCK: [2024-08-11 Sun 19:25]--[2024-08-11 Sun 20:40] =>  1:15
+CLOCK: [2024-08-10 Sat 16:20]--[2024-08-10 Sat 18:50] =>  2:30
+CLOCK: [2024-08-10 Sat 09:20]--[2024-08-10 Sat 12:52] =>  3:32
+:END:
+
 
 * New Server Project
 
+* New Homework Management Develop
+
+** 사용하는 과목
+
+    - Reading 1
+    - Reading 2
+    - Grammar
+    - Clinic
+    - Listening
+    - Speaking
+    - Writing
+    - Native
+    - Phonics
+    - Story Reading
+    - Native Reading
+    - 수능모의고사
+      
+** Type별 발생과목 --> Type 구분은 폐지
+
+    - N type: Reading 1, Reading 2, Grammar, Clinic, Listening, Writing, Native, Phonics
+    - Q type: Reading, Grammar, Listening, Writing, Phonics
+    - C type: Reading 1, Reading 2, Grammar, Clininc, Listening, Writing, Speaking, Story Reading
+
+** 과목별 숙제내용 -- 필요시 내용을 변경할 수 있도록 개발
+
+*** Reading1, Reading2, Grammar, Clinic, Listening
+
+     - 제출일
+     - 단어
+     - 책풀기
+     - 워크북 풀기
+     - 직독직해
+     - 직독틀문
+     - 오답노트
+     - 청크SPK
+     - 청크DIC
+     - 기타
+
+*** Story Reading
+
+     1. Do Q&A 스토리리딩책 Q&A 풀기
+     2. Rewrite Q&A
+        스토리딩책 틀린문장 다시쓰기
+     3. Book report / Summary
+        독후감/요약하기
+     4. Find new vocabs in the new book
+        스토리 새책 예습-읽고 모르는 단어 찾아보기
+
+*** Native Reading
+
+     1. Vocab 단어공부하기
+     2. Listen and Read CD 5 times
+        본문 채 CD 듣고 읽기 5번
+     3. Do Chunk Speaking
+        온라인 숙제
+     4. Do Reading Q&A
+        리딩책 Q&A 풀기
+     5. Correct mistakes
+        틀린단어&틀린문장 다시쓰기
+        
+*** Speaking, Writing
+
+     1. Vocab 단어 공부하기
+     2. Do Mainbook / Workbook
+        책/워크북 풀기
+     3. ETC 기타
+
+
+** Requirement
+
+   - 교재명을 Click 시 Vocabulary의 종합테스트지 생생 화면 Popup
+     . 숙제입력 시 교재를 불러와서 입력하도록 개발 필요
+   - 단어장을 Click 시 Vocabulary 화면 폴더 우클릭 시 나타나는 챕터인쇄 Popup
+* Server Operation Memo
+
+** Chunkeng STRAPI Server Operation
+
+    - lxc list
+    - lxc exec strapi -- bash
+      cd /app/strapi
+    - pm2 list
+      pm2 stop server
+    - yarn develop
+      ... change code
+      yarn build
+    - pm2 start server
