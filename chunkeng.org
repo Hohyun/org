@@ -3,31 +3,20 @@
 #+startup: overview
 
 * Chunkeng Web Site
-#+BEGIN: clocktable :scope subtree :maxlevel 4 :block lastmonth :tags t
-#+CAPTION: Clock summary at [2024-09-06 Fri 07:23], for August 2024.
-| Tags                | Headline                                   | Time       |          |       |      |
-|---------------------+--------------------------------------------+------------+----------+-------+------|
-|                     | *Total time*                               | *2d 22:51* |          |       |      |
-|---------------------+--------------------------------------------+------------+----------+-------+------|
-|                     | Chunkeng Web Site                          | 2d 22:51   |          |       |      |
-|                     | \_  Team Folder Project                    |            |     0:55 |       |      |
-|                     | \_    Meeting                              |            |          |  0:55 |      |
-| 08_06               | \_      Online meeting 8.6                 |            |          |       | 0:25 |
-| 08_10               | \_      Online meeting 8.10                |            |          |       | 0:30 |
-|                     | \_  Maintenance                            |            |     5:31 |       |      |
-| 08_06               | \_    Homework UI -- Button by Subject     |            |          |  4:21 |      |
-| 08_21               | \_    Speaking folder trouble shooting     |            |          |  1:10 |      |
-|                     | \_  New Homework Management                |            | 2d 16:25 |       |      |
-| 08_07               | \_    Requirement review                   |            |          |  3:25 |      |
-| 08_07, 08_08, 08_09 | \_    Homework table design                |            |          |  6:55 |      |
-| 08_09               | \_    Homework data library develop        |            |          |  5:14 |      |
-| 08_10, 08_11        | \_    Homework index route develop         |            |          |  7:17 |      |
-| 08_15, 08_16        | \_    Homework input form develop          |            |          | 13:47 |      |
-| 08_16, 08_17        | \_    Homework edit form develop           |            |          |  5:12 |      |
-| 08_19               | \_    NoSQL backend, Homework duplicate... |            |          |  7:15 |      |
-| 08_20               | \_    Homework UI develop                  |            |          |  5:20 |      |
-| 08_22               | \_    Homework student view develop        |            |          |  2:45 |      |
-| 08_31               | \_    Homework course management develop   |            |          |  7:15 |      |
+#+BEGIN: clocktable :scope subtree :maxlevel 4 :block thismonth :tags t
+#+CAPTION: Clock summary at [2024-09-28 Sat 19:11], for September 2024.
+| Tags          | Headline                                | Time       |          |       |
+|---------------+-----------------------------------------+------------+----------+-------|
+|               | *Total time*                            | *1d 19:14* |          |       |
+|---------------+-----------------------------------------+------------+----------+-------|
+|               | Chunkeng Web Site                       | 1d 19:14   |          |       |
+|               | \_  Legacy Program Maintenance          |            |     1:40 |       |
+| 09_05         | \_    Print function touble shooting    |            |          |  1:40 |
+|               | \_  New Homework Management             |            | 1d 17:34 |       |
+| 09_02         | \_    Homework course API develop       |            |          |  3:20 |
+| 09_03, 09, 04 | \_    Homework course CRUD develop      |            |          |  9:30 |
+| 09_07, 09_14  | \_    Homework schedule management      |            |          | 22:10 |
+| 09_28         | \_    Chunk online distribution develop |            |          |  6:34 |
 #+END:
 
 
@@ -174,7 +163,7 @@ CLOCK: [2024-08-06 Tue 16:10]--[2024-08-06 Tue 16:35] =>  0:25
 CLOCK: [2024-08-10 Sat 15:45]--[2024-08-10 Sat 16:15] =>  0:30
 :END:
 
-** Maintenance
+** Legacy Program Maintenance
 
 *** DONE Homework UI -- Button by Subject                            :08_06:
 :LOGBOOK:
@@ -182,11 +171,17 @@ CLOCK: [2024-08-06 Tue 16:37]--[2024-08-06 Tue 17:09] =>  0:32
 CLOCK: [2024-08-06 Tue 08:01]--[2024-08-06 Tue 11:50] =>  3:49
 :END:
 
-*** TODO Speaking folder trouble shooting                             :08_21:
+*** DONE Speaking folder trouble shooting                             :08_21:
+CLOSED: [2024-09-07 Sat 09:38]
 :LOGBOOK:
 CLOCK: [2024-08-21 Wed 21:00]--[2024-08-21 Wed 22:10] =>  1:10
 :END:
 
+*** DONE Print function touble shooting                               :09_05:
+CLOSED: [2024-09-07 Sat 09:40]
+:LOGBOOK:
+CLOCK: [2024-09-05 Thu 07:30]--[2024-09-05 Thu 09:10] =>  1:40
+:END:
 
 ** TODO New Homework Management
 
@@ -268,7 +263,8 @@ CLOSED: [2024-08-22 Thu 16:17]
 CLOCK: [2024-08-22 Thu 13:30]--[2024-08-22 Thu 16:15] =>  2:45
 :END:
 
-*** TODO Homework course management develop                           :08_31:
+*** DONE Homework course management develop                           :08_31:
+CLOSED: [2024-09-07 Sat 09:40]
 :LOGBOOK:
 CLOCK: [2024-08-31 Sat 16:40]--[2024-08-31 Sat 19:36] =>  2:56
 CLOCK: [2024-08-31 Sat 09:00]--[2024-08-31 Sat 13:19] =>  4:19
@@ -276,6 +272,36 @@ CLOCK: [2024-08-31 Sat 09:00]--[2024-08-31 Sat 13:19] =>  4:19
      - Table design
      - CRUD API develop
        
+*** TODO Homework course API develop                                  :09_02:
+:LOGBOOK:
+CLOCK: [2024-09-02 Mon 13:10]--[2024-09-02 Mon 16:30] =>  3:20
+:END:
+
+*** TODO Homework course CRUD develop                           :09_03:09:04:
+:LOGBOOK:
+CLOCK: [2024-09-04 Wed 13:30]--[2024-09-04 Wed 16:30] =>  3:00
+CLOCK: [2024-09-04 Wed 08:00]--[2024-09-04 Wed 11:00] =>  3:00
+CLOCK: [2024-09-03 Tue 13:00]--[2024-09-03 Tue 16:30] =>  3:30
+:END:
+*** TODO Homework schedule management                           :09_07:09_14:
+:LOGBOOK:
+CLOCK: [2024-09-18 Wed 09:20]--[2024-09-18 Wed 13:40] =>  4:20
+CLOCK: [2024-09-14 Sat 22:10]--[2024-09-14 Sat 23:10] =>  1:00
+CLOCK: [2024-09-14 Sat 17:00]--[2024-09-14 Sat 19:10] =>  2:10
+CLOCK: [2024-09-14 Sat 09:00]--[2024-09-14 Sat 13:59] =>  4:59
+CLOCK: [2024-09-07 Sat 19:30]--[2024-09-07 Sat 21:40] =>  2:10
+CLOCK: [2024-09-07 Sat 16:30]--[2024-09-07 Sat 18:30] =>  2:00
+CLOCK: [2024-09-07 Sat 09:00]--[2024-09-07 Sat 14:31] =>  5:31
+:END:
+
+
+*** TODO Chunk online distribution develop                            :09_28:
+:LOGBOOK:
+CLOCK: [2024-09-28 Sat 16:30]--[2024-09-28 Sat 18:40] =>  2:10
+CLOCK: [2024-09-28 Sat 09:22]--[2024-09-28 Sat 13:46] =>  4:24
+:END:
+
+
 * New Server Project
 
 * New Homework Management Develop
